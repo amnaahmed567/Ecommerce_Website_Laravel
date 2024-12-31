@@ -47,7 +47,7 @@ EmpowerMART is a multi-vendor e-commerce platform developed to empower rural wom
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/AYESHA19SIDDIQA/EmpowerMART-WebProject.git
+   git clone https://github.com/amnaahmed567/Ecommerce_Website_Laravel.git)
    cd EmpowerMART-WebProject
    ```
 
